@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Welcome
 ---
-
-Welcome.
 
 # Header 1
 
